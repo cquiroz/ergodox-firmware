@@ -150,8 +150,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "T",
-                    "label": "T"
+                    "key": "Y",
+                    "label": "Y"
                 }
             }
         },
@@ -163,8 +163,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "R",
-                    "label": "R"
+                    "key": "P",
+                    "label": "P"
                 }
             }
         },
@@ -176,8 +176,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "E",
-                    "label": "E"
+                    "key": "PERIOD",
+                    "label": "."
                 }
             }
         },
@@ -189,8 +189,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "W",
-                    "label": "W"
+                    "key": "COMMA",
+                    "label": ","
                 }
             }
         },
@@ -202,8 +202,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "Q",
-                    "label": "Q"
+                    "key": "QUOTE",
+                    "label": "'"
                 }
             }
         },
@@ -228,8 +228,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "G",
-                    "label": "G"
+                    "key": "I",
+                    "label": "I"
                 }
             }
         },
@@ -241,8 +241,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "F",
-                    "label": "F"
+                    "key": "U",
+                    "label": "U"
                 }
             }
         },
@@ -254,8 +254,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "D",
-                    "label": "D"
+                    "key": "E",
+                    "label": "E"
                 }
             }
         },
@@ -267,8 +267,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "S",
-                    "label": "S"
+                    "key": "O",
+                    "label": "O"
                 }
             }
         },
@@ -345,8 +345,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "B",
-                    "label": "B"
+                    "key": "X",
+                    "label": "X"
                 }
             }
         },
@@ -358,8 +358,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "V",
-                    "label": "V"
+                    "key": "K",
+                    "label": "K"
                 }
             }
         },
@@ -371,8 +371,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "C",
-                    "label": "C"
+                    "key": "J",
+                    "label": "J"
                 }
             }
         },
@@ -384,8 +384,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "X",
-                    "label": "X"
+                    "key": "Q",
+                    "label": "Q"
                 }
             }
         },
@@ -397,8 +397,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "Z",
-                    "label": "Z"
+                    "key": "SEMICOLON",
+                    "label": ";"
                 }
             }
         },
@@ -684,8 +684,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "Y",
-                    "label": "Y"
+                    "key": "F",
+                    "label": "F"
                 }
             }
         },
@@ -697,8 +697,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "U",
-                    "label": "U"
+                    "key": "G",
+                    "label": "G"
                 },
                 "2": {
                     "key": "P7",
@@ -714,8 +714,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "I",
-                    "label": "I"
+                    "key": "C",
+                    "label": "C"
                 },
                 "2": {
                     "key": "P8",
@@ -731,8 +731,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "O",
-                    "label": "O"
+                    "key": "R",
+                    "label": "R"
                 },
                 "2": {
                     "key": "P9",
@@ -748,8 +748,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "P",
-                    "label": "P"
+                    "key": "L",
+                    "label": "L"
                 },
                 "2": {
                     "key": "P+",
@@ -778,8 +778,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "H",
-                    "label": "H"
+                    "key": "D",
+                    "label": "D"
                 }
             }
         },
@@ -791,8 +791,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "J",
-                    "label": "J"
+                    "key": "H",
+                    "label": "H"
                 },
                 "2": {
                     "key": "P4",
@@ -808,8 +808,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "K",
-                    "label": "K"
+                    "key": "T",
+                    "label": "T"
                 },
                 "2": {
                     "key": "P5",
@@ -825,8 +825,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "L",
-                    "label": "L"
+                    "key": "N",
+                    "label": "N"
                 },
                 "2": {
                     "key": "P6",
@@ -842,8 +842,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "SEMICOLON",
-                    "label": ";"
+                    "key": "S",
+                    "label": "S"
                 },
                 "2": {
                     "key": "P+",
@@ -911,8 +911,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "N",
-                    "label": "N"
+                    "key": "B",
+                    "label": "B"
                 }
             }
         },
@@ -941,8 +941,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "COMMA",
-                    "label": ","
+                    "key": "W",
+                    "label": "W"
                 },
                 "2": {
                     "key": "P2",
@@ -958,8 +958,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "PERIOD",
-                    "label": "."
+                    "key": "V",
+                    "label": "V"
                 },
                 "2": {
                     "key": "P3",
@@ -975,8 +975,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "SLASH",
-                    "label": "\/"
+                    "key": "Z",
+                    "label": "Z"
                 },
                 "2": {
                     "key": "PENTER",
