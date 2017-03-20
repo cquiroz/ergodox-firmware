@@ -137,8 +137,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "LCK1",
-                    "label": "LOCK-1"
+                    "key": "LBRACE",
+                    "label": "["
                 }
             }
         },
@@ -215,8 +215,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKSLASH",
-                    "label": "\\"
+                    "key": "BACKTICK",
+                    "label": "`"
                 }
             }
         },
@@ -306,8 +306,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LALT",
-                    "label": "LALT"
+                    "key": "CONS:VOLUMEUP",
+                    "label": "VOL+"
                 }
             }
         },
@@ -319,8 +319,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCTRL",
-                    "label": "LCTRL"
+                    "key": "LCK1",
+                    "label": "LOCK-1"
                 }
             }
         },
@@ -462,8 +462,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "BACKSPACE",
-                    "label": "BKSP"
+                    "key": "FUN1",
+                    "label": "\u01921"
                 }
             }
         },
@@ -501,8 +501,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKSLASH",
-                    "label": "\\"
+                    "key": "LALT",
+                    "label": "LALT"
                 }
             }
         },
@@ -514,8 +514,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKTICK",
-                    "label": "`"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
                 }
             }
         },
@@ -540,8 +540,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCK2",
-                    "label": "LOCK-2"
+                    "key": "MINUS",
+                    "label": "-"
                 },
                 "1": {
                     "key": "F12",
@@ -658,8 +658,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "MINUS",
-                    "label": "-"
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 }
             }
         },
@@ -671,8 +671,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "LBRACE",
-                    "label": "["
+                    "key": "RBRACE",
+                    "label": "]"
                 }
             }
         },
@@ -765,8 +765,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RBRACE",
-                    "label": "]"
+                    "key": "SLASH",
+                    "label": "\/"
                 }
             }
         },
@@ -859,8 +859,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "QUOTE",
-                    "label": "'"
+                    "key": "BACKSLASH",
+                    "label": "\\"
                 }
             }
         },
@@ -872,8 +872,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RALT",
-                    "label": "RALT"
+                    "key": "CONS:VOLUMEDOWN",
+                    "label": "VOL-"
                 }
             }
         },
@@ -885,8 +885,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RCTRL",
-                    "label": "RCTRL"
+                    "key": "LCK2",
+                    "label": "LOCK-2"
                 }
             }
         },
@@ -898,8 +898,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
+                    "key": "FUN2",
+                    "label": "\u01922"
                 }
             }
         },
@@ -1061,8 +1061,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LEFT",
-                    "label": "\u2190"
+                    "key": "UP",
+                    "label": "\u2191"
                 }
             }
         },
@@ -1087,8 +1087,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "UP",
-                    "label": "\u2191"
+                    "key": "RALT",
+                    "label": "RALT"
                 },
                 "2": {
                     "key": "P.",
@@ -1104,8 +1104,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RIGHT",
-                    "label": "\u2192"
+                    "key": "RCTRL",
+                    "label": "RCTRL"
                 },
                 "2": {
                     "key": "PENTER",
