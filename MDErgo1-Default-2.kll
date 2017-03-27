@@ -8,10 +8,10 @@ Date = "2015-09-12";
 Generator = "KIICONF 0.2";
 
 U"EQUALS" : flashMode();
-U"W" : U"UP";
-U"D" : U"RIGHT";
-U"S" : U"DOWN";
-U"A" : U"LEFT";
+U"E" : U"UP";
+U"F" : U"RIGHT";
+U"D" : U"DOWN";
+U"S" : U"LEFT";
 U"7" : U"NUMLOCK";
 U"8" : U"P/";
 U"9" : U"P*";

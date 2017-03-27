@@ -178,6 +178,10 @@
                 "0": {
                     "key": "PERIOD",
                     "label": "."
+                },
+                "2": {
+                    "key": "UP",
+                    "label": "\u2191"
                 }
             }
         },
@@ -191,10 +195,6 @@
                 "0": {
                     "key": "COMMA",
                     "label": ","
-                },
-                "2": {
-                    "key": "UP",
-                    "label": "\u2191"
                 }
             }
         },
@@ -247,6 +247,10 @@
                 "0": {
                     "key": "U",
                     "label": "U"
+                },
+                "2": {
+                    "key": "RIGHT",
+                    "label": "\u2192"
                 }
             }
         },
@@ -262,8 +266,8 @@
                     "label": "E"
                 },
                 "2": {
-                    "key": "RIGHT",
-                    "label": "\u2192"
+                    "key": "DOWN",
+                    "label": "\u2193"
                 }
             }
         },
@@ -279,8 +283,8 @@
                     "label": "O"
                 },
                 "2": {
-                    "key": "DOWN",
-                    "label": "\u2193"
+                    "key": "LEFT",
+                    "label": "\u2190"
                 }
             }
         },
@@ -294,10 +298,6 @@
                 "0": {
                     "key": "A",
                     "label": "A"
-                },
-                "2": {
-                    "key": "LEFT",
-                    "label": "\u2190"
                 }
             }
         },
@@ -341,10 +341,6 @@
                 "0": {
                     "key": "LCK1",
                     "label": "LOCK-1"
-                },
-                "1": {
-                    "key": "CONS:MUTE",
-                    "label": "MUTE"
                 }
             }
         },
@@ -449,6 +445,10 @@
                 "0": {
                     "key": "HOME",
                     "label": "HOME"
+                },
+                "1": {
+                    "key": "CONS:MUTE",
+                    "label": "MUTE"
                 }
             }
         },
@@ -915,10 +915,6 @@
                 "0": {
                     "key": "LCK2",
                     "label": "LOCK-2"
-                },
-                "1": {
-                    "key": "CONS:PAUSEPLAY",
-                    "label": "PL\/PS"
                 }
             }
         },
@@ -1039,6 +1035,10 @@
                 "0": {
                     "key": "PAGEUP",
                     "label": "PGUP"
+                },
+                "1": {
+                    "key": "CONS:PAUSEPLAY",
+                    "label": "PL\/PS"
                 }
             }
         },
