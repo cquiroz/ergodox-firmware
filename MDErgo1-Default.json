@@ -322,8 +322,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:'{'",
-                    "label": "{"
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 },
                 "1": {
                     "key": "CONS:VOLUMEUP",
@@ -462,6 +462,10 @@
                 "0": {
                     "key": "END",
                     "label": "END"
+                },
+                "1": {
+                    "key": "CONS:BRIGHTNESSINCREMENT",
+                    "label": "SCRN+"
                 }
             }
         },
@@ -473,8 +477,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "DELETE",
-                    "label": "DEL"
+                    "key": "ENTER",
+                    "label": "\u21b5"
                 }
             }
         },
@@ -896,8 +900,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:'}'",
-                    "label": "}"
+                    "key": "DELETE",
+                    "label": "DEL"
                 },
                 "1": {
                     "key": "CONS:VOLUMEDOWN",
@@ -926,8 +930,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
+                    "key": "FUN3",
+                    "label": "\u01923"
                 }
             }
         },
@@ -1052,6 +1056,10 @@
                 "0": {
                     "key": "PAGEDOWN",
                     "label": "PGDN"
+                },
+                "1": {
+                    "key": "CONS:BRIGHTNESSDECREMENT",
+                    "label": "SCRN-"
                 }
             }
         },
@@ -1063,8 +1071,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "ENTER",
-                    "label": "\u21b5"
+                    "key": "SPACE",
+                    "label": "[&nbsp;]"
                 }
             }
         },
@@ -1076,8 +1084,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "SPACE",
-                    "label": "[&nbsp;]"
+                    "key": "FUN1",
+                    "label": "\u01921"
                 },
                 "2": {
                     "key": "P0",
